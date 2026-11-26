@@ -1,0 +1,4 @@
+# Opcional (etapa 1 en adelante): modelo neuronal de embeddings.
+# Instale primero torch para CPU, que pesa mucho menos que la versión con GPU:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers>=3.0
