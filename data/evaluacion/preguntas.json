@@ -1,0 +1,20 @@
+[
+  {"pregunta": "¿Cuántos días de vacaciones me corresponden por año trabajado?", "fuente": "politica_vacaciones.md", "clave": "quince (15) días hábiles"},
+  {"pregunta": "¿Con cuánta anticipación debo solicitar las vacaciones?", "fuente": "politica_vacaciones.md", "clave": "treinta (30) días calendario"},
+  {"pregunta": "¿Cuántos días de permiso me dan si me caso?", "fuente": "politica_vacaciones.md", "clave": "Matrimonio del colaborador"},
+  {"pregunta": "¿De cuánto es el auxilio de conectividad para el trabajo desde casa?", "fuente": "politica_teletrabajo.md", "clave": "90.000 pesos"},
+  {"pregunta": "¿Cuántos días al año puedo trabajar desde el exterior?", "fuente": "politica_teletrabajo.md", "clave": "veinte (20) días al año"},
+  {"pregunta": "¿Cuál es el horario núcleo en la modalidad híbrida?", "fuente": "politica_teletrabajo.md", "clave": "9:00 a. m. a 4:00 p. m."},
+  {"pregunta": "¿Cuál es el tope diario de alimentación en viajes a Medellín?", "fuente": "reembolso_gastos.md", "clave": "120.000 pesos por día"},
+  {"pregunta": "¿Qué plazo tengo para registrar las facturas de un viaje para el reembolso?", "fuente": "reembolso_gastos.md", "clave": "diez (10) días calendario siguientes"},
+  {"pregunta": "¿Cuánto me reconocen por kilómetro si viajo en mi vehículo propio?", "fuente": "reembolso_gastos.md", "clave": "1.100 pesos por kilómetro"},
+  {"pregunta": "¿Cómo restablezco mi contraseña del correo?", "fuente": "manual_soporte_ti.md", "clave": "clave.andinalogistica.co"},
+  {"pregunta": "¿Cuál es el servidor de la VPN corporativa?", "fuente": "manual_soporte_ti.md", "clave": "vpn.andinalogistica.co"},
+  {"pregunta": "¿Qué hago si recibo un correo sospechoso de phishing?", "fuente": "manual_soporte_ti.md", "clave": "Reportar phishing"},
+  {"pregunta": "¿Cada cuánto se renuevan los portátiles?", "fuente": "manual_soporte_ti.md", "clave": "cuatro (4) años"},
+  {"pregunta": "¿Cuánto dura el periodo de prueba de un nuevo colaborador?", "fuente": "onboarding.md", "clave": "dos (2) meses"},
+  {"pregunta": "¿Durante cuántos días tengo un mentor al ingresar a la empresa?", "fuente": "onboarding.md", "clave": "noventa (90) días"},
+  {"pregunta": "¿Cómo puede un cliente rastrear su envío?", "fuente": "faq_clientes.md", "clave": "andinalogistica.co/rastreo"},
+  {"pregunta": "¿Cuál es el valor máximo asegurado de un envío con el seguro básico?", "fuente": "faq_clientes.md", "clave": "500.000 pesos"},
+  {"pregunta": "¿Cuántos intentos de entrega se hacen antes de devolver el paquete?", "fuente": "faq_clientes.md", "clave": "dos (2) intentos de entrega"}
+]
